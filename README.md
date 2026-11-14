@@ -1,9 +1,9 @@
 # Ziqi (`@Ziqi`)
 
-**Systems, Security & Quantitative Infrastructure** · AlphaDragon Team · Beijing  
+**Systems, Security & Quantitative Infrastructure** · B.S. Computer Science (Beijing Institute of Technology) · AlphaDragon Team · Beijing  
 [![X (@sinoziqi)](https://img.shields.io/badge/X-%40sinoziqi-000000?logo=x&logoColor=white)](https://x.com/sinoziqi) [![DEV.to (@sinoziqi)](https://img.shields.io/badge/DEV.to-%40sinoziqi-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/sinoziqi) [![Hashnode (@sinoziqi)](https://img.shields.io/badge/Hashnode-%40sinoziqi-2962FF?logo=hashnode&logoColor=white)](https://hashnode.com/@sinoziqi) [![Hacker News (ziqixiao)](https://img.shields.io/badge/Hacker%20News-ziqixiao-FF6600?logo=ycombinator&logoColor=white)](https://news.ycombinator.com/user?id=ziqixiao)
 
-Building deterministic, zero-dependency compilers for multi-site Tailscale networking and sandbox isolation, reproducible offline digital forensics (DFIR) toolchains, and quantitative market data pipelines.
+Founder-engineer with 12+ years architecting cross-border clearing/settlement infrastructure, deterministic multi-site Tailscale networking and sandbox isolation compilers, reproducible offline digital forensics (DFIR) toolchains, and quantitative market-data pipelines. Creator and lead maintainer of three Linux Foundation **OpenSSF Best Practices Silver**-certified open-source repositories.
 
 ---
 
@@ -27,7 +27,7 @@ Building deterministic, zero-dependency compilers for multi-site Tailscale netwo
 
 ## 核心开源项目（中文导览）
 
-专注于 **声明式异地组网与沙箱隔离工具链**、**可复现离线电子数据取证（DFIR）** 与 **高频量化时序工程**（支持官方 Homebrew 源 [`Ziqi/tap`](https://github.com/Ziqi/homebrew-tap) 一键安装）：
+北京理工大学计算机科学与技术学士 · **AlphaDragon Team** · 12 年以上跨境清结算与高可靠系统架构经验，专注于 **声明式异地组网与沙箱隔离工具链**、**可复现离线电子数据取证（DFIR）** 与 **高频量化时序工程**（旗下三大旗舰仓全员获评 Linux 基金会 OpenSSF Silver 银牌且 Scorecard 均达 `8.0+`，支持官方 Homebrew 源 [`Ziqi/tap`](https://github.com/Ziqi/homebrew-tap) 一键安装）：
 
 - **[StarHub Kit (`v1.2.0`)](https://github.com/Ziqi/starhub-kit)**（OpenSSF Silver `#16658` · Scorecard `8.2/10` · SLSA L3 + OSPS Baseline L3 · SWHID `swh:1:snp:e4eeb16e`）：支持 `brew install Ziqi/tap/starhub-kit`、原生 `flake.nix` 免安装运行及 `--only` 模块化无特权 `--dry-run` 预览，覆盖「免编译 Mihomo × Tailscale 规则包（Tier 0）」、「单网关精简版（Tier 1）」与「全栈多站点及云端 AI 沙箱双栈禁 SSH 隔离（Tier 2）」的确定性组网与防火墙编译器。
 - **[StarShield Forensics (`v0.3.7`)](https://github.com/Ziqi/starshield-forensics)**（OpenSSF Silver `#16602` · Scorecard `8.0/10` · PyPI `PEP 740` 可信发布 · Zenodo DOI `10.5281/zenodo.24145804` · [在线门户与合成基准报告](https://ziqi.github.io/starshield/)）：通用离线、零第三方依赖 DFIR 工具集，涵盖确定性 Chromium LevelDB `.log` 物理帧恢复、PNG/JPEG ICC 色彩链路溯源、标准金融标识符校验位（IBAN / Luhn / ABA）核验工具及 100% 合成验证语料库（`StarShield-Bench-24` · 对齐 `UK FSR 法定守则 FSA – DIG 100` 与 `ISO/IEC 17025` 482 向量双工具交叉验证，支持 `uvx --from starshield-forensics starshield demo` 与 `brew install Ziqi/tap/starshield-forensics` 零门槛体验）。
