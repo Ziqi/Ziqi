@@ -1,7 +1,7 @@
 # Ziqi (`@Ziqi`)
 
 **Systems, Security & Quantitative Infrastructure** · AlphaDragon Team · Beijing  
-[![X (@sinoziqi)](https://img.shields.io/badge/X-%40sinoziqi-000000?logo=x&logoColor=white)](https://x.com/sinoziqi) [![Hashnode (@sinoziqi)](https://img.shields.io/badge/Hashnode-%40sinoziqi-2962FF?logo=hashnode&logoColor=white)](https://hashnode.com/@sinoziqi) [![Hacker News (ziqixiao)](https://img.shields.io/badge/Hacker%20News-ziqixiao-FF6600?logo=ycombinator&logoColor=white)](https://news.ycombinator.com/user?id=ziqixiao)
+[![X (@sinoziqi)](https://img.shields.io/badge/X-%40sinoziqi-000000?logo=x&logoColor=white)](https://x.com/sinoziqi) [![DEV.to (@sinoziqi)](https://img.shields.io/badge/DEV.to-%40sinoziqi-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/sinoziqi) [![Hashnode (@sinoziqi)](https://img.shields.io/badge/Hashnode-%40sinoziqi-2962FF?logo=hashnode&logoColor=white)](https://hashnode.com/@sinoziqi) [![Hacker News (ziqixiao)](https://img.shields.io/badge/Hacker%20News-ziqixiao-FF6600?logo=ycombinator&logoColor=white)](https://news.ycombinator.com/user?id=ziqixiao)
 
 Building deterministic, zero-dependency compilers for multi-site Tailscale networking and sandbox isolation, reproducible offline digital forensics (DFIR) toolchains, and quantitative market data pipelines.
 
